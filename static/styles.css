@@ -1,0 +1,62 @@
+body {
+	background: rgba(44, 62, 80, .8);
+	font-family: 'Oswald', 'Futura', sans-serif;
+}
+#wrapper {
+	margin-top: 10%;
+	margin-left: 35%;
+}
+#content {
+	background: rgb(255, 255, 255);
+	padding: 25px;
+}
+#content > h2 {
+	font-size: 18px;
+	text-align: center;
+	padding-top: 0;
+}
+.t10 {
+	margin-top: 10px;
+}
+.t20 {
+	margin-top: 20px;
+}
+.todo-status {
+	text-decoration: line-through;
+	background: rgba(149, 165, 166, .3);
+}
+
+footer {
+	margin-top: 20px;
+	color: white;
+}
+
+#d{
+	text-align:center;
+}
+
+#e {
+
+	text-align:center;
+
+}
+.v{
+	display: inline;
+	text-align:center;
+}
+.v1{
+	margin-bottom: 15px;
+}
+.v2{
+	margin-bottom: 20px;
+}
+
+ul{
+	list-style-type: none;
+	text-align:center;
+}
+
+
+.date{
+	padding-left: 30px;
+}
